@@ -1,0 +1,7 @@
+{
+  "name": "truemarketinggroup.com",
+  "version": "1.0.0",
+  "main": "server/index.js",
+  "author": "Ian Mobley <imobley@mobsworkshop.com>",
+  "license": "MIT"
+}
